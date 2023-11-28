@@ -1,0 +1,20 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Schedule the action to run hourly
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update README with GitHub Stats
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # Use the secret
+
