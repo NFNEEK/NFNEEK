@@ -7,24 +7,22 @@
 </p>
 </a>
 
-## Passionate full-stack and <strong>Web3 enthusiast</strong><strong>
- * <strong>Founded</strong> <a href="https://aced.capital">ACED CAPITAL</a>
- * <strong>CEO</strong> of <a href="https://bullsvbears.com">BULLS v BEARS</a>
- * Rebuilt <a href="https://goalpost.gg">GOALPOST.GG</a> 
- * Scaling and innovating at a record pace
- * Strong affinity for <strong>SOLANA</strong>.</strong>
+  # PASSIONATE FULL STACK WEB3 ENTHUSIAST
+     * FOUNDED ACED CAPITAL & BULLS v BEARS
+     * CEO & SAVIOR of GOALPOST.GG REBUILT
+     * SCALING & INNOVATING & UNNATURAL PACE
+     * STRONG AFFINITY FOR SOLANA
+     
+### 📆 [SCHEDULE A MEETING](https://cal.com/uneek/30)
 
-## PROFESSIONAL 
-###  💼 [Aced Capital](https://aced.capital)  <a href="https://x.com/bullsvsbearssol">🐦 @Goalpost</a>
-#### BUSINESS PROFILE, Agency, Web3 Guidance & protection & 3 Wolves Ventures [WIP]
+# FEATURED
 
-# 🚀 FEATURED BUILDS
 <div style="background-color:#f5f5f5;padding:15px;border-radius:10px;">
-
-### <strong>🎲</strong> [BvB DISCORD](https://discord.gg/bullsvbears) <strong>🎲</strong>
+  
+###  💼 [ACED CAPITAL](https://aced.capital) WIP
+### <strong>🎲</strong> [BvB DISCORD](https://discord.gg/bullsvbears) <strong>🎲</strong> <a href="https://x.com/bullsvsbearssol">@BULLSvBEARS</a>
 ### <strong>🐂</strong> [BULLS v BEARS](https://bullsvbears.com) <strong>💨</strong>
-### 🎯 [GOALPOST.GG](https://goalpost.gg) 🎯
-PvP Wagering Card Game with PLAY ON DEMAND BOTS!
+### 🎯 [GOALPOST.GG](https://goalpost.gg) 🎯 <strong>PvP Wagering Card Game with PLAY ON DEMAND BOTS!</strong>
   ## COMING NEXT
     * AFFILIATE PROGRAM
     * CUSTOM PROJECT TABLES
@@ -32,7 +30,6 @@ PvP Wagering Card Game with PLAY ON DEMAND BOTS!
     * BULLSEYE.BET 👀
     * BULLISH OR BEARISH 📉📈
 
-### 🌹 [CULTUR3D](https://cultur3d.io) | [SyncLink](https://synclink.me/uneek) | [UNEEK.LIFE](https://uneek.life)
 
 </div>
 
@@ -41,7 +38,6 @@ PvP Wagering Card Game with PLAY ON DEMAND BOTS!
   <img src="https://github-readme-stats.vercel.app/api?username=NFNEEK&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Your GitHub Stats" />
 </p>
 
-### 📆 [uNEEK's MEETING SYNCLINK](https://cal.com/uneek/30)
 
 ## 💻 Tech Stack
 <div style="background-color:#e0e0e0;padding:15px;border-radius:10px;">
