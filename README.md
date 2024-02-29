@@ -20,7 +20,7 @@
 <div style="background-color:#f5f5f5;padding:15px;border-radius:10px;">
   
 ### <strong>🧃</strong> [ACED CAPITAL](https://aced.capital) WIP
-### <strong>🎲</strong> [GOALPOST DISCORD](https://discord.gg/goalpostgg) 
+### <strong>🎲</strong> [GOALPOST DISCORD](https://discord.gg/goalpost)
 ### <strong>🎲</strong> <a href="https://x.com/goalpostgg">@GOALPOSTGG</a>
 ### <strong>⏱️</strong> [SYNC LINK](https://synclink.me) <strong>💨</strong>
 ### 🎯 [GOALPOST.GG](https://goalpost.gg) 🎯 <strong>PvP Wagering Card Game with PLAY ON DEMAND BOTS!</strong>
