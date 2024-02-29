@@ -8,7 +8,7 @@
 </a>
 
   # PASSIONATE FULL STACK WEB3 ENTHUSIAST
-     * FOUNDED ACED CAPITAL & BULLS v BEARS
+     * FOUNDED DRUIDS NFT Collection
      * CEO & SAVIOR of GOALPOST.GG REBUILT
      * SCALING & INNOVATING & UNNATURAL PACE
      * STRONG AFFINITY FOR SOLANA
@@ -19,9 +19,10 @@
 
 <div style="background-color:#f5f5f5;padding:15px;border-radius:10px;">
   
-###  💼 [ACED CAPITAL](https://aced.capital) WIP
-### <strong>🎲</strong> [BvB DISCORD](https://discord.gg/bullsvbears) <strong>🎲</strong> <a href="https://x.com/bullsvsbearssol">@BULLSvBEARS</a>
-### <strong>🐂</strong> [BULLS v BEARS](https://bullsvbears.com) <strong>💨</strong>
+### <strong>🧃</strong> [ACED CAPITAL](https://aced.capital) WIP
+### <strong>🎲</strong> [GOALPOST DISCORD](https://discord.gg/goalpostgg) 
+### <strong>🎲</strong> <a href="https://x.com/goalpostgg">@GOALPOSTGG</a>
+### <strong>⏱️</strong> [SYNC LINK](https://synclink.me) <strong>💨</strong>
 ### 🎯 [GOALPOST.GG](https://goalpost.gg) 🎯 <strong>PvP Wagering Card Game with PLAY ON DEMAND BOTS!</strong>
   ## COMING NEXT
     * AFFILIATE PROGRAM
