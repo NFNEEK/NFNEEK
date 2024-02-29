@@ -13,7 +13,7 @@
      * SCALING & INNOVATING & UNNATURAL PACE
      * STRONG AFFINITY FOR SOLANA
      
-### 📆 [SCHEDULE A MEETING](https://cal.com/uneek/30)
+### 📆 [SCHEDULE A MEETING](https://fantastical.app/uneek/sync)
 
 # FEATURED
 
