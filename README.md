@@ -54,8 +54,8 @@
 </div>
 
 ## 🌐 Connect with Me
-- 🐦 Twitter: <a href="https://x.com/nfneek">NFNEEK (Personal)</a> | <a href="https://x.com/goalpostgg">Bulls vs Bears (Project)</a>
-- 💬 Join my Discord Community: <a href="https://discord.gg/goalpost">Bulls vs Bears Discord</a>
-- 📫 How to reach me: <a href="mailto:neek@aced.capital">[EMAIL ME]</a> OR 📆 [SCHEDULE A MEETING](https://fantastical.app/uneek/sync)
+- 🐦 Twitter: <a href="https://x.com/nfneek">NFNEEK (Personal)</a> | <a href="https://x.com/goalpost_gg">GOALPOST TWITTER (PROJECT UPDATES) </a>
+- 💬 Join my Discord Community: <a href="https://discord.gg/goalpost">GOALPOST DISCORD</a>
+- 📫 How to reach me: <a href="mailto:niko@savagestud.io>[EMAIL ME]</a> OR 📆 [SCHEDULE A MEETING](https://calendly.com/savagelabs)
 
 <h3 align="center">Thank you for visiting my GitHub profile. Let's connect and explore opportunities together!</h3>
